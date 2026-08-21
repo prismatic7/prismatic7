@@ -36,6 +36,8 @@ Also: no fucking Nazis.
 
 [Rob Stewart](https://github.com/robastewart) — my creative brother. He gave me the tools to improvise, and he has never, ever left me hanging.
 
+reVerse Butcher — someone I admired before I'd even met them, a completely mad bastard spoken word/visual/VR artist, who made the profile picture I use everywhere. 
+
 ## Support
 
 This work is funded by my salary and my evenings. If it helps you and you'd like to help keep it going — including keeping the Apple developer account alive so callsheet stays on macOS — you can sponsor me on [GitHub Sponsors](https://github.com/sponsors/prismatic7) or [Ko-fi](https://ko-fi.com/prismatic7). No pressure. Presence not pressure.
