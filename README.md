@@ -24,6 +24,8 @@ A set of plugins for the BB agentic IDE — unslop, noema, headroom, noisegate, 
 
 ## Where I stand
 
+For some reason, a lovely marketing person at OpenDesign [interviewed me about things that I build](https://open-design.ai/stories/chris-wenn/). I mean, like I say, I'm not a visual person, but when you're trying to make code with philosophy you take any help you can get.
+
 A space I set up is queer friendly. It yields space to voices that aren't mine. It stands *with*, not *for*.
 
 My code is here for who *you* are, so long as you give the same affordance to others.
@@ -32,7 +34,7 @@ Also: no fucking Nazis.
 
 ## People
 
-[Ben Knight](https://github.com/nerdb0y) — my oldest friend. The sole reason I know anything about Unix, and a huge part of why I'm an electronic musician and sound designer. He's going to have to suck it.
+[Ben Knight](https://github.com/nerdb0y) — my oldest friend. The sole reason I know anything about Unix, and a huge part of why I'm an electronic musician and sound designer.
 
 [Rob Stewart](https://github.com/robastewart) — my creative brother. He gave me the tools to improvise, and he has never, ever left me hanging.
 
