@@ -34,7 +34,7 @@ If you've come looking for the work rather than the code:
 
 **Enodios** — an Obsidian plugin, named for Hermes as protector of travellers and god of crossroads. It's the direction I'm heading. Not ready to talk about yet.
 
-**A Zotero plugin** — for the way I actually do research. Name TBD.
+**Logios** — a Zotero plugin. Hermes inside the library: chat with your sources, read the PDFs, cite in any style, save it all to notes. Named for Hermes as god of the word — the pair to Enodios, the roads and the word. For the way I actually do research.
 
 ## Where I stand
 
