@@ -19,7 +19,6 @@ If you've come looking for the work rather than the code:
 - **[loreweaver](https://github.com/prismatic7/loreweaver)** — a local-first tool for tabletop roleplaying, built for a running campaign.
 - **[MASA](https://github.com/prismatic7/MASA)** — a local-first, language-neutral protocol for treating sound as matter.
 - **[Hermes Agent](https://github.com/prismatic7/hermes-agent)** — the agent I live in; my fork of the system this whole practice runs on.
-- **[BB plugins](https://github.com/prismatic7?tab=repositories&q=bb-plugin)** — the set I maintain for the BB agentic IDE.
 - **[callsheet-agent](https://github.com/prismatic7/callsheet-agent)** — the stage-manager side of the day-board.
 - **[enodios](https://github.com/prismatic7/enodios)** — Hermes inside the Obsidian vault.
 
@@ -36,10 +35,6 @@ If you've come looking for the work rather than the code:
 **Enodios** — an Obsidian plugin, named for Hermes as protector of travellers and god of crossroads. It's the direction I'm heading. Not ready to talk about yet.
 
 **A Zotero plugin** — for the way I actually do research. Name TBD.
-
-## What I maintain
-
-A set of plugins for the BB agentic IDE — unslop, noema, headroom, noisegate, rtk, progressive-skill, security-guidance. The platform is BB's; I maintain these for the ecosystem. Where the patterns are mine, they're mine; where they build on the work of others, that work is credited. These are transitional — the work I'm proudest of is the work that's mine.
 
 ## Where I stand
 
