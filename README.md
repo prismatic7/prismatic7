@@ -15,13 +15,13 @@ Using my tools the way I want to is art. My zsh setup is art. The months I've sp
 If you've come looking for the work rather than the code:
 
 - **[The website](https://www.chriswenn.com/)** — sound design for performance: [hire page](https://www.chriswenn.com/hire/), [52 production credits](https://www.chriswenn.com/credits/), [research](https://www.chriswenn.com/research/), [CV](https://www.chriswenn.com/cv/). Start here.
-- **[callsheet](https://github.com/prismatic7/callsheet)** ([on itch.io](https://prismatic7.itch.io/callsheet)) — the calm desktop day-board that holds without pinging.
+- **[callsheet](https://github.com/techne-tools/callsheet)** ([on itch.io](https://prismatic7.itch.io/callsheet)) — the calm desktop day-board that holds without pinging.
 - **[loreweaver](https://github.com/prismatic7/loreweaver)** — a local-first tool for tabletop roleplaying, built for a running campaign.
 - **[MASA](https://github.com/prismatic7/MASA)** — a local-first, language-neutral protocol for treating sound as matter.
 - **[hermes-ears](https://github.com/prismatic7/hermes-ears)** — an ears plugin for Hermes: it measures the audio, then says only what the measurements carry.
 - **[Hermes Agent](https://github.com/prismatic7/hermes-agent)** — the agent I live in; my fork of the system this whole practice runs on.
 - **[callsheet-agent](https://github.com/prismatic7/callsheet-agent)** — the stage-manager side of the day-board.
-- **[enodios](https://github.com/prismatic7/enodios)** — Hermes inside the Obsidian vault.
+- **[enodios](https://github.com/techne-tools/enodios)** — Hermes inside the Obsidian vault.
 
 ## The things that are me
 
@@ -32,8 +32,6 @@ If you've come looking for the work rather than the code:
 **Hermes** — I live in Hermes Agent. This profile, my federation across machines, the plugins I maintain for it — that's where the real work happens. Most of it is private, because it's a rehearsal room, not a show. But the practice is the point.
 
 ## Coming
-
-**Enodios** — an Obsidian plugin, named for Hermes as protector of travellers and god of crossroads. It's the direction I'm heading. Not ready to talk about yet.
 
 **Logios** — a Zotero plugin. Hermes inside the library: chat with your sources, read the PDFs, cite in any style, save it all to notes. Named for Hermes as god of the word — the pair to Enodios, the roads and the word. For the way I actually do research.
 
