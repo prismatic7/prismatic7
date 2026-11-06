@@ -6,18 +6,18 @@
 [![Bandcamp](https://img.shields.io/badge/Bandcamp-Listen-629aa9?logo=bandcamp&logoColor=white)](https://chriswenn.bandcamp.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/prismatic7)
 
-I'm Chris — a sound designer and researcher working in theatre and performance, teaching at University of the Arts Sharjah in the UAE. I build tools because the ones I need don't exist, and I believe that if you can't make a tool do what you want it to do, it's not your tool.
+I'm Chris — sound designer and researcher in theatre and performance, teaching at University of the Arts Sharjah in the UAE. I build tools because the ones I need don't exist. If you can't make a tool do what you want, it's not your tool.
 
-Using my tools the way I want to is art. My zsh setup is art. The months I've spent refining my Hermes agent — the one that helps me write, rehearse, and think — is art. The repos here are the parts of that practice I can share.
+Using my tools the way I want to is art. My zsh setup is art. The months I've spent refining the Hermes agent — the one that helps me write, rehearse, and think — are art. The repos here are the parts of that practice I can share.
 
 ## Start here
 
 If you've come looking for the work rather than the code:
 
-- **[The website](https://www.chriswenn.com/)** — sound design for performance: [hire page](https://www.chriswenn.com/hire/), [52 production credits](https://www.chriswenn.com/credits/), [research](https://www.chriswenn.com/research/), [CV](https://www.chriswenn.com/cv/). Start here.
+- **[The website](https://www.chriswenn.com/)** — sound design for performance: [hire page](https://www.chriswenn.com/hire/), [52 production credits](https://www.chriswenn.com/credits/), [research](https://www.chriswenn.com/research/), [CV](https://www.chriswenn.com/cv/).
 - **[callsheet](https://github.com/techne-tools/callsheet)** ([on itch.io](https://prismatic7.itch.io/callsheet)) — the calm desktop day-board that holds without pinging.
 - **[loreweaver](https://github.com/prismatic7/loreweaver)** — a local-first tool for tabletop roleplaying, built for a running campaign.
-- **[hermes-ears](https://github.com/prismatic7/hermes-ears)** — an ears plugin for Hermes: it measures the audio, then says only what the measurements carry.
+- **[hermes-ears](https://github.com/prismatic7/hermes-ears)** — an ears plugin for Hermes: it measures the audio, then states only what the measurements carry.
 - **[Hermes Agent](https://github.com/prismatic7/hermes-agent)** — the agent I live in; my fork of the system this whole practice runs on.
 - **[callsheet-agent](https://github.com/prismatic7/callsheet-agent)** — the stage-manager side of the day-board.
 - **[enodios](https://github.com/techne-tools/enodios)** — Hermes inside the Obsidian vault.
@@ -28,7 +28,7 @@ If you've come looking for the work rather than the code:
 
 **loreweaver** — a local-first TTRPG tool, currently running a FATE of Cthulhu campaign. A hobby, and it's mine.
 
-**Hermes** — I live in Hermes Agent. This profile, my federation across machines, the plugins I maintain for it — that's where the real work happens. Most of it is private, because it's a rehearsal room, not a show. But the practice is the point.
+**Hermes** — I live in Hermes Agent. This profile, the federation across machines, the plugins I maintain — that's where the real work happens. Most of it is private, because it's a rehearsal room, not a show. The practice is the point.
 
 ## Coming
 
@@ -36,7 +36,7 @@ If you've come looking for the work rather than the code:
 
 ## Where I stand
 
-For some reason, a lovely marketing person at OpenDesign [interviewed me about things that I build](https://open-design.ai/stories/chris-wenn/). I mean, like I say, I'm not a visual person, but when you're trying to make code with philosophy you take any help you can get.
+For some reason a lovely marketing person at OpenDesign [interviewed me about the things I build](https://open-design.ai/stories/chris-wenn/). I'm not a visual person, but when you're trying to make code with philosophy you take any help you can get.
 
 A space I set up is queer friendly. It yields space to voices that aren't mine. It stands *with*, not *for*.
 
@@ -60,4 +60,4 @@ I'm a sound designer first, so most of me is elsewhere. Here's where:
 
 ## Support
 
-This work is funded by my salary and my evenings. If it helps you and you'd like to help keep it going — including keeping the Apple developer account alive so callsheet stays on macOS — you can sponsor me on [GitHub Sponsors](https://github.com/sponsors/prismatic7) or [Ko-fi](https://ko-fi.com/prismatic7). No pressure. Presence not pressure.
+This work is funded by my salary and my evenings. If it helps you, [GitHub Sponsors](https://github.com/sponsors/prismatic7) or [Ko-fi](https://ko-fi.com/prismatic7) keeps it going — and keeps the Apple developer account alive so callsheet stays on macOS. No pressure. Presence not pressure.
